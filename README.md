@@ -1,7 +1,7 @@
 # Olá! Eu sou o Daniel Henrique Alves Trindade 👋
 <p align="center">
   ⚙️ Desenvolvedor Back-End em formação <br>
-  🚀 Node.js • APIs RESTful • MySQL/PLSQL • Java 
+  🚀 HTML5/CSS3 • APIs RESTful • MySQL/PLSQL • Java 
 </p>
 
 ---
