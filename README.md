@@ -1,15 +1,10 @@
 ## Olá! sou Daniel Henrique Alves Trindade 👋
 
 -🖥️ Trabalhando como Service Desk
--🌱 Estudando Java
+-🌱 Estudando Java / C# /HTML5/CSS3
 -🍎 Buscando conhecimento em sabedoria
 
-<div>
-  <a href="https://github.com/TrindadeDaniel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TrindadeDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrindadeDaniel&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=TrindadeDaniel)](https://github.com/stats-organization/github-stats-extended)
 
 
 <div style="display: inline_block"><br>
