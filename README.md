@@ -29,6 +29,7 @@ Aqui estão as principais tecnologias com as quais estou praticando e estudando 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrindadeDaniel&theme=radical&hide_border=true"/>
 </div>
+
 ---
 
 ##🌱 Atualmente aprendendo
