@@ -25,6 +25,14 @@ Aqui estão as principais tecnologias com as quais estou praticando e estudando 
 
 ---
 
+## 📦 Projetos em destaque
+
+- 💪 **System Calistenia** — [github.com/TrindadeDaniel/SystemCalistenia](https://github.com/TrindadeDaniel/SystemCalistenia)
+
+Um aplicativo web moderno e intuitivo para treinos de calistenia, planejamento de dieta e acompanhamento de progresso. Desenvolvido com tecnologias atuais e uma interface futurista, oferecendo a solução completa que faltava no mercado.
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
