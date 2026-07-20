@@ -1,15 +1,16 @@
-# Olá! Eu sou o Daniel Henrique Alves Trindade 👋
+# Olá! Eu sou o Daniel Henrique 👋
 <p align="center">
   ⚙️ Desenvolvedor em formação <br>
-  🚀 HTML5/CSS3 • APIs RESTful • MySQL/PLSQL • Java • C#
+  🚀  Java • C# • APIs RESTful • MySQL/PLSQL
 </p>
 
 ---
 ### 🧑🏻 Sobre mim
----
-* 🛠️ **Atualidade:** Atuando na área de Service Desk (suporte técnico e resolução de problemas).
-* 🎯 **Objetivo:** Desenvolver projetos práticos para fixar conceitos de lógica, backend e frontend.
-* 🧠 **Filosofia:** Buscando constantemente conhecimento com sabedoria e resiliência.
+- 💼 Técnico de suporte N1 - Service Desk na **Atos - Semantix** (presencial)
+- 🛠️ **Atualidade:** Atuando na área de Service Desk (suporte técnico e resolução de problemas).
+- 🎯 **Objetivo:** Desenvolver projetos práticos para fixar conceitos de lógica, backend e frontend.
+- 🧠 **Filosofia:** Buscando constantemente conhecimento com sabedoria e resiliência.
+- 📫 Contate-me: daniel.henrique230207@gmail.com
 ---
 
 ### 🛠️ Tecnologias em Aprendizado
@@ -32,13 +33,12 @@ Aqui estão as principais tecnologias com as quais estou praticando e estudando 
 
 ---
 
-##🌱 Atualmente aprendendo
+### 🌱 Atualmente aprendendo
 
-- Java (em desenvolvimento)
-- APIs REST — boas práticas e documentação
-- Banco de dados — modelagem e otimização
-- C# - criação de jogos (em desenvolvimento) 
-- HTML5/CSS3 - criação de sites
+- Java - Em desenvolvimento / Intermediário
+- APIs REST — Em desenvolvimento/consumindo API's públicas
+- Banco de dados — modelagem e otimização - Intermediário
+- C# - criação de jogos - Em desenvolvimento 
 ---
 
 ### 🤝 Conecte-se Comigo
